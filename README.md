@@ -15,7 +15,12 @@ Twitter: https://x.com/HudesDev
 
 ## Installation
 
-1. Install the required packages:
+1. Setup Environment:
+python setup.pyy
+or
+py setup.py
+   
+Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
